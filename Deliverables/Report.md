@@ -1,8 +1,8 @@
 # Lab 16: Cloud AI Environment Setup - GCP Deliverables
 
-**Sinh viên:** Nguyễn Tuấn Phong  
+**Họ tên:** Nguyễn Tuấn Phong  
 **MSSV:** 2A202601038  
-**Lớp:** K3B  
+**Khoá:** K3B  
 **Ngày thực hiện:** 2026-08-14
 
 ---
